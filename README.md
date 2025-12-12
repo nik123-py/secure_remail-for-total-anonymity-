@@ -5,7 +5,6 @@ Here is a comprehensive `README.md` file for the `secure_remail.sh` script.
 
 # Secure Remailer Chainer (`secure_remail.sh`)
 
-A hardened Bash script for generating Type I (Cypherpunk) anonymous remailer chains.
 
 This tool automates the process of wrapping a message in multiple layers of PGP encryption ("Onion Routing"). It enforces strict security practices to protect against traffic analysis, timing correlation, and local forensic recovery.
 
